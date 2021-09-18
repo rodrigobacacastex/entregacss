@@ -1,0 +1,92 @@
+h1{
+    background-color: cadetblue;
+    color:navy;
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 25px;
+    font-style: normal;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+h2{
+    background-color: black;
+    color: coral;
+    font-family: Arial;
+    font-weight: lighter;
+    font-size: 20px;
+    font-style: oblique;
+    text-align: center;
+}
+
+h3{
+  background-color: black;
+  color: coral;
+  font-family: Arial;
+  font-weight: lighter;
+  font-size: 20px;
+  font-style: oblique;
+  text-align: center;
+}
+
+h4{
+    background-color: darkorange;
+    color:royalblue;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 22px;
+    font-style: italic;
+}
+
+h5{
+    font-family: Impact;
+    font-weight: lighter;
+    font-size-adjust: 20px;
+    text-align: right;
+}
+
+.destacados1{
+    font-family:'Times New Roman';
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.destacados2{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    font-style: oblique;
+}
+
+.destacados3{
+    color: red;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.destacados4{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    font-style: oblique;
+}
+
+.destacados5{
+    background-color:black;
+    color:ivory;
+    font-family:Georgia;
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+.destacados6{
+    font-family: sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/* Comentarios en CSS
+El renacido esta marcado en rojo y con mayúscula porque hace referencia a una película preferida.*/
